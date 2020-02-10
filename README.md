@@ -10,6 +10,8 @@ Unity 2018.3.14
 
 [教學](https://www.bilibili.com/video/av32547308)
 
+![](https://github.com/PeterLukGit/ShaderGraph_Unity_Exercise/blob/master/01.PNG)
+
 # ShaderGraph 球
 
 [教學](https://www.youtube.com/watch?v=_IwlpwEJ3lE&list=PLHkZsIwT_SixXK95l0IHaCTwaRKqzGYiC)
@@ -22,6 +24,8 @@ Unity 2018.3.14
 
 把高低模進去算出來的，但是Normal有點誤差
 
+![](https://github.com/PeterLukGit/ShaderGraph_Unity_Exercise/blob/master/03.PNG)
+
 # ShaderGraph 球形力場
 
 [教學](https://www.youtube.com/watch?v=i2w0p_mV8_g&t=113s)
@@ -32,6 +36,7 @@ Unity 2018.3.14
 
 所以到後面就做出來，然後改改幾個小地方學學
 
+![](https://github.com/PeterLukGit/ShaderGraph_Unity_Exercise/blob/master/02.PNG)
 
 # ShaderGraph 碰觸邊緣發亮
 
